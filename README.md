@@ -27,7 +27,11 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/四德亨利元-pink)
 <br/><br/>
 ![Visitor Count](https://profile-counter.glitch.me/beginner-Chun/count.svg)
-<img height="32" width="32" src="https://unpkg.com/simple-icons@v11/icons/simpleicons.svg" />
+<br/><br/>
+<img height="32" width="32" src="https://unpkg.com/simple-icons@v11/icons/linux.svg" />
+<img height="32" width="32" src="https://unpkg.com/simple-icons@v11/icons/vim.svg" />
+<img height="32" width="32" src="https://unpkg.com/simple-icons@v11/icons/redis.svg" />
+<img height="32" width="32" src="https://unpkg.com/simple-icons@v11/icons/mysql.svg" />
 </div>
 
 [github-sub-title:img]: https://readme-typing-svg.herokuapp.com?font=Segoe+Script&center=true&lines=beginner_Chun.
