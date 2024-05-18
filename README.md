@@ -29,10 +29,10 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/两朝兄弟邦-red) 
 ![](https://img.shields.io/badge/三星日月光-blue)
 ![](https://img.shields.io/badge/四德亨利元-pink)
+<br/><br/>
+![Visitor Count](https://profile-counter.glitch.me/beginner-Chun/count.svg)
 </div>
 
-
-
-![Visitor Count](https://profile-counter.glitch.me/beginner-Chun/count.svg)
-
 [github-sub-title:img]: https://readme-typing-svg.herokuapp.com?font=Segoe+Script&center=true&lines=beginner_Chun.
+
+
