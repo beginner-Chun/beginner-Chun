@@ -14,13 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div id="title" align=center style="background-color: rgb(127, 157, 147);">
-
-
+<div id="title" align=center style="background-color: rgb(127, 157, 147);width: 100% ; height: 100px;">
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=beginner-Chun&show_icons=true&theme=tokyonight)
-
-
 
 ![modern cpp](https://img.shields.io/badge/code-Modern%20JAVA-blue)
 ![modern cpp](https://img.shields.io/badge/code-Modern%20VUE-yellow)
@@ -31,6 +27,7 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/四德亨利元-pink)
 <br/><br/>
 ![Visitor Count](https://profile-counter.glitch.me/beginner-Chun/count.svg)
+<img height="32" width="32" src="https://unpkg.com/simple-icons@v11/icons/simpleicons.svg" />
 </div>
 
 [github-sub-title:img]: https://readme-typing-svg.herokuapp.com?font=Segoe+Script&center=true&lines=beginner_Chun.
