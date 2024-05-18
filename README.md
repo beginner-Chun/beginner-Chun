@@ -18,15 +18,15 @@ Here are some ideas to get you started:
 
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=beginner-Chun&show_icons=true&theme=tokyonight)]
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=beginner-Chun&show_icons=true&theme=tokyonight)
 
 
 
-[![modern cpp](https://img.shields.io/badge/code-Modern%20JAVA-blue)]
-![](https://img.shields.io/badge/讨厌-学习-yellow) 
-![](https://img.shields.io/badge/性格-开朗-red) 
-![](https://img.shields.io/badge/爱好-二次元-red)
-
+![modern cpp](https://img.shields.io/badge/code-Modern%20JAVA-blue)
+⚡![](https://img.shields.io/badge/一阵风雷雨-yellow) 
+👯![](https://img.shields.io/badge/两朝兄弟邦-red) 
+💬![](https://img.shields.io/badge/三星日月光-red)
+😄![](https://img.shields.io/badge/四德亨利元-red)
 </div>
 
 
