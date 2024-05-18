@@ -1,4 +1,4 @@
-### Hi there 👋
+  <h1 align=center style="font-family:'华文彩云'"> 👋有朋自远方来,不亦说乎！👋</h1>
 
 <!--
 **beginner-Chun/beginner-Chun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div id="title" align=center>
+<div id="title" align=center style="background-color: rgb(127, 157, 147);">
 
 
 
@@ -23,10 +23,12 @@ Here are some ideas to get you started:
 
 
 ![modern cpp](https://img.shields.io/badge/code-Modern%20JAVA-blue)
-⚡![](https://img.shields.io/badge/一阵风雷雨-yellow) 
-👯![](https://img.shields.io/badge/两朝兄弟邦-red) 
-💬![](https://img.shields.io/badge/三星日月光-red)
-😄![](https://img.shields.io/badge/四德亨利元-red)
+![modern cpp](https://img.shields.io/badge/code-Modern%20VUE-yellow)
+<br/>
+![](https://img.shields.io/badge/一阵风雷雨-yellow) 
+![](https://img.shields.io/badge/两朝兄弟邦-red) 
+![](https://img.shields.io/badge/三星日月光-blue)
+![](https://img.shields.io/badge/四德亨利元-pink)
 </div>
 
 
